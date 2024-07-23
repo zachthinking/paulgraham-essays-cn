@@ -9,6 +9,6 @@
 ## 生成左侧导航栏
 
 ```
-python3 gen_sidebar3.py
+python3 gen_sidebar4.py
 ```
 

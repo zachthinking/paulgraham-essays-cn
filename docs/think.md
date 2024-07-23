@@ -1,6 +1,6 @@
-# 如何独立思考
+# 2020-11 如何独立思考
 
-2020年11月 保罗·格雷厄姆
+2020年11月
 
 原文：[How to Think For Yourself](http://www.paulgraham.com/think.html)
 
