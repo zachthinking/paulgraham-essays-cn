@@ -1,8 +1,8 @@
 # 2020-11 如何独立思考
 
-2020年11月
-
 原文：[How to Think For Yourself](http://www.paulgraham.com/think.html)
+
+2020年11月
 
 ## 第一部分
 

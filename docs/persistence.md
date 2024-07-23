@@ -1,8 +1,8 @@
 # 2024-07 正确的固执
 
-2024年7月
-
 原文： [The Right Kind of Stubborn](https://www.paulgraham.com/persistence.html)
+
+2024年7月
 
 ## 正文
 

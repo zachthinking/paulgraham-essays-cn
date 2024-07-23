@@ -1,8 +1,8 @@
 # 2021-06 如何努力
 
-2021年6月 
-
 原文：[How to Work Hard](http://www.paulgraham.com/hwh.html)
+
+2021年6月 
 
 ## 正文
 
