@@ -10,7 +10,7 @@
 
 Paul Graham 在这篇文章中谈到，在孩童时期，他对于人生短暂这事很难理解。直到有了孩子，才有了真切地感受到。并确定是对的。
 
-明白人生短暂的意义在哪里？在于，我们可以意识到，我们应该更有效地利用时间。不要把时间浪费在一些琐事上，一些无意义的事情上，一些不重要的人身上。利用好有限的时间，去做对自己更重要的事，更有意义的事，自己更关心的事情上。把时间花对自己重要的人身上。
+明白人生短暂的意义在哪里？在于，我们可以意识到，我们应该更有效地利用时间。不要把时间浪费在一些琐事上，一些无意义的事情上，一些不重要的人身上。利用好有限的时间，去做对自己更重要的事，更有意义的事，自己更关心的事情上。把时间花在对自己重要的人身上。
 
 现代科技或现代社会，可能想抢夺你的注意力、你的时间。要意识到这一点。避免被短视频、碎片化信息抢占你的头脑，浪费你的时间，阻止你做重要的事情。
 
@@ -42,19 +42,19 @@ Having kids showed me how to convert a continuous quantity, time, into discrete 
 
 Ok, so life actually is short. Does it make any difference to know that?
 
-好吧，所以人生确实短暂。知道这个有什么不同吗？
+好吧，所以人生确实短暂。知道这一点，有什么意义吗？
 
 
 
 It has for me. It means arguments of the form "Life is too short for x" have great force. It's not just a figure of speech to say that life is too short for something. It's not just a synonym for annoying. If you find yourself thinking that life is too short for something, you should try to eliminate it if you can.
 
-这对我有意义。这意味着“人生太短暂而不去做某事”的争论有很大的力量。说人生太短暂去做某事不仅仅是一种比喻，它不仅仅是“烦人”的同义词。如果你发现自己想做某件事但时间不够，你应该尽可能地不去做这件事。
+这对我有意义。这意味着“人生太短暂而不去做某事”的争论有很大的力量。说人生太短暂而不去做某事不仅仅是一种比喻，它不仅仅是“烦人”的同义词。如果你发现自己想做某件事但时间不够，你应该尽可能地不去做这件事。
 
 
 
 When I ask myself what I've found life is too short for, the word that pops into my head is "bullshit." I realize that answer is somewhat tautological. It's almost the definition of bullshit that it's the stuff that life is too short for. And yet bullshit does have a distinctive character. There's something fake about it. It's the junk food of experience. [1]
 
-当我自问人生太短暂而不去做什么事时，我脑海中浮现的词是“无意义之事”（译者注：原文是 bullshit，这里翻译成无意义的事，在下文根据情况有时会翻译成琐事）。我意识到这个答案有点循环论证。废话几乎就是人生太短暂去做的东西的定义。然而，废话确实有其独特的特点。它有些假的东西。它是经验的垃圾食品。
+当我自问人生太短暂而不去做什么事时，我脑海中浮现的词是“无意义之事”（译者注：原文是 bullshit，这里翻译成无意义值事，在下文根据情况有时会翻译成琐事）。我意识到这个答案有点循环论证。无意义之事几乎就是人生太短暂而不去做的事情的定义。然而，无意义之事确实有其独特的特点。它有些假的东西。它是经验的垃圾食品。
 
 
 
@@ -72,19 +72,19 @@ There are two ways this kind of thing gets into your life: it's either forced on
 
 You can do it on a smaller scale without moving. The amount of time you have to spend on bullshit varies between employers. Most large organizations (and many small ones) are steeped in it. But if you consciously prioritize bullshit avoidance over other factors like money and prestige, you can probably find employers that will waste less of your time.
 
-你可以在不搬家的小范围内做到这一点。你在废话上花费的时间在雇主之间是不同的。大多数大型组织（和许多小型组织）都充满了废话。但是如果你有意识地将避免废话置于其他因素如金钱和声望之上，你可能会找到浪费你时间更少的雇主。
+你可以在不搬家的小范围内做到这一点。你在无意义之事上花费的时间在雇主之间是不同的。大多数大型组织（和许多小型组织）都充满了无意义之事。但是如果你有意识地将避免无意义之事置于其他因素如金钱和声望之上，你可能会找到浪费你时间更少的雇主。
 
 
 
 If you're a freelancer or a small company, you can do this at the level of individual customers. If you fire or avoid toxic customers, you can decrease the amount of bullshit in your life by more than you decrease your income.
 
-如果你是自由职业者或小公司，你可以在个别客户层面上做到这一点。如果你解雇或避免有毒的客户，你可以通过减少废话来减少你生活中的废话，比你减少的收入还要多。
+如果你是自由职业者或小公司，你可以在个别客户层面上做到这一点。如果你解雇或避免有毒的客户，你可以减少很多生活中的无意义之事，并且你减少的收入不会很多。
 
 
 
 But while some amount of bullshit is inevitably forced on you, the bullshit that sneaks into your life by tricking you is no one's fault but your own. And yet the bullshit you choose may be harder to eliminate than the bullshit that's forced on you. Things that lure you into wasting your time have to be really good at tricking you. An example that will be familiar to a lot of people is arguing online. When someone contradicts you, they're in a sense attacking you. Sometimes pretty overtly. Your instinct when attacked is to defend yourself. But like a lot of instincts, this one wasn't designed for the world we now live in. Counterintuitive as it feels, it's better most of the time not to defend yourself. Otherwise these people are literally taking your life.
 
-但是，虽然一定量的琐事不可避免地被强加给你，但通过欺骗你悄悄进入你生活的废话，没有人的错，只是你自己的错。然而，你选择的废话可能比强加给你的废话更难消除。诱使你浪费时间的事情必须非常擅长欺骗你。一个对许多人来说都很熟悉的例子是在线争论。当有人反驳你时，他们在某种意义上是在攻击你。有时非常公开。当你被攻击时，你的本能是为自己辩护。但是像许多本能一样，这种本能并不适合我们现在生活的世界。反直觉的是，大多数时候不为自己辩护会更好。否则这些人真的在夺走你的生命。
+但是，虽然一定量的琐事不可避免地被强加给你，但通过欺骗你悄悄进入你生活的无意义之事，没有人的错，只是你自己的错。然而，你选择的无意义之事可能比强加给你的无意义之事更难消除。诱使你浪费时间的事情必须非常擅长欺骗你。一个对许多人来说都很熟悉的例子是在线争论。当有人反驳你时，他们在某种意义上是在攻击你。有时非常公开。当你被攻击时，你的本能是为自己辩护。但是像许多本能一样，这种本能并不适合我们现在生活的世界。反直觉的是，大多数时候不为自己辩护会更好。否则这些人真的在夺走你的生命。
 
 
 
@@ -176,7 +176,7 @@ Relentlessly prune bullshit, don't wait to do things that matter, and savor the 
 
 [1] At first I didn't like it that the word that came to mind was one that had other meanings. But then I realized the other meanings are fairly closely related. Bullshit in the sense of things you waste your time on is a lot like intellectual bullshit.
 
- [1] 最初我不喜欢我脑海中浮现的词是另一个含义的词。但后来我意识到其他含义相当接近。你在琐事上浪费的时间和你在智力上的废话有很多相似之处。
+ [1] 最初我不喜欢我脑海中浮现的词是另一个含义的词。但后来我意识到其他含义相当接近。你在琐事上浪费的时间和你在智力上的无意义之事有很多相似之处。
 
 
 
