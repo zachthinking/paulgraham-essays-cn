@@ -1,8 +1,8 @@
-# 2016-11 人生短暂
+# 2016-01 人生短暂
 
 原文：[Life is Short](https://www.paulgraham.com/vb.html)
 
-2016年11月
+2016年1月
 
 本文由 @扎克爱思 收集整理。
 
